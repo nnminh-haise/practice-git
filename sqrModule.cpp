@@ -1,5 +1,6 @@
 #include <iostream>
 
-int sqr(int value) {
+
+double sqr(double value) {
     return value * value;
 }
